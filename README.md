@@ -1,8 +1,6 @@
 <h1 align="center">Hi! I'm Pedro.</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pedroafmonteiro&label=Profile%20views&color=0e75b6&style=flat" alt="pedroafmonteiro" /> </p>
-
-<p align="center"> 🎓 Currently studying at <a href="https://fe.up.pt">FEUP</a></p>
+<h3 align="center"> 🎓 Currently studying at <a href="https://fe.up.pt">FEUP</a></h3>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
