@@ -1,6 +1,6 @@
 ### Hello there 👋
 ---
-I'm an Informatics and Computing Engineering Student at the Faculty of Engineering - University of Porto 🎓
+I'm an Informatics and Computing Enginneering Student at the Faculty of Enginneering - University of Porto 🎓
 - I'm also building a new transportation app for the city of Porto, Portugal using Flutter. I'm experimenting and learning while also giving users a new way of navigating through the city.
 - Overall, just having fun!
 
