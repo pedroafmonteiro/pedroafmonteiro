@@ -1,8 +1,20 @@
-### Hello there 👋
----
-I'm an Informatics and Computing Enginneering Student at the Faculty of Enginneering - University of Porto 🎓
-- I'm also building a new transportation app for the city of Porto, Portugal using Flutter. I'm experimenting and learning while also giving users a new way of navigating through the city.
-- Overall, just having fun!
+# Hello there 👋
 
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/pedroafmonteiro)](https://x.com/intent/user?screen_name=pedroafmonteiro)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-pedro10monteiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro10monteiro/)](https://www.linkedin.com/in/pedro10monteiro/)
+I'm Pedro, an **Informatics Engineering Student** specializing in **Cross-platform Mobile Development** and **Web Development**. Currently based in **Porto, Portugal**.
+
+---
+
+### Technical Expertise
+
+* **Languages:** Dart, TypeScript, JavaScript, C++, Python
+* **Frameworks:** Flutter, React, Laravel, SpringBoot
+* **Databases:** PostgreSQL
+
+### Current Focus
+
+I am currently leading the development of **uni** by **NIAEFEUP**, exploring ways to make managing student's academic life easier.
+
+### Connect
+
+* **Portfolio:** [pedroafmonteiro.pages.dev](https://pedroafmonteiro.pages.dev/)
+* **LinkedIn:** [linkedin.com/in/pedro10monteiro](https://www.linkedin.com/in/pedro10monteiro/)
