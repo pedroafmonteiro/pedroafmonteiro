@@ -1,18 +1,10 @@
-# Hello there 👋
+# Hi, I'm Pedro
 
-I'm Pedro, an **Informatics Engineering Student** specializing in **Cross-platform Mobile Development** and **Web Development**. Currently based in **Porto, Portugal**.
+I'm a developer based in Porto, Portugal.
 
----
+Right now, I'm co-leading projects at [NIAEFEUP](https://niaefeup.pt), helping build useful products and create better experiences for the student community.
 
-### Technical Expertise
-
-* **Languages:** Dart, TypeScript, JavaScript, C++, Python
-* **Frameworks:** Flutter, React, Laravel, SpringBoot
-* **Databases:** PostgreSQL
-
-### Current Focus
-
-I am currently leading the development of **uni** by **NIAEFEUP**, exploring ways to make managing student's academic life easier.
+I enjoy turning ideas into polished, practical software, especially across mobile and web.
 
 ### Connect
 
