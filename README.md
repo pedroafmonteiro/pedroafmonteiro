@@ -2,7 +2,7 @@
 
 I'm a developer based in Porto, Portugal.
 
-Right now, I'm interning at [Blip.pt](https://blip.pt) and co-leading projects at [NIAEFEUP](https://niaefeup.pt), helping build useful products and create better experiences for the student community.
+Right now, I'm interning at [Blip.pt](https://blip.pt) and co-leading projects at [NIFEUP](https://nifeup.com), helping build useful products and create better experiences for the student community.
 
 I enjoy turning ideas into polished, practical software, especially across mobile and web.
 
